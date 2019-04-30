@@ -1,0 +1,10 @@
+practice,1,0,The crowd cheered the winner of the marathon that came from Ethiopia.,Did the crowd cheer the Ethiopian?,Yes,No
+practice,2,0,After the game was over the hockey players went to a surprise party for their coach.,Did the coach know about the party?,No,Yes
+practice,3,0,The angry secretary threw the sister of the professor out of the office.,Was the secretary upset?,Yes,No
+practice,4,0,The president of the company that was marketing a new product dictated a letter to his assistant.,Was the assistant marketing a new product?,No,Yes
+practice,5,0,The statue terrified the little girl who was standing next to the mirror.,Was the girl afraid?,Yes,No
+practice,6,0,The dentist gave a local anesthetic to the son of the woman that had just moved into town.,Did the dentist just move into town?,No,Yes
+practice,7,0,The governor's decision to raise taxes guaranteed his defeat during the elections.,Did the governor make a bad decision?,Yes,No
+practice,8,0,The lawyer of the plaintiff that may have perjured himself tried to bribe a juror.,Did the juror commit perjury?,No,Yes
+practice,9,0,The bicycle ran into the young child of the woman who had just started crossing the busy street.,Was the street full of traffic?,Yes,No
+practice,10,0,The robber's getaway car ran out of gas and he was caught by the police.,Did the robber remember to fill his car up?,No,Yes

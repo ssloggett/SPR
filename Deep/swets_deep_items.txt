@@ -1,0 +1,216 @@
+swets,1,1,The sister of the actress who called attention to herself on the balcony was under investigation.,Who called attention to themselves?,The actress,The sister
+swets,1,2,The brother of the actress who called attention to herself on the balcony was under investigation.,Who called attention to themselves?,The actress,The brother
+swets,1,3,The brother of the actress who called attention to himself on the balcony was under investigation.,Who called attention to themselves?,The brother,The actress
+swets,2,1,The uncle of the fireman who criticized himself far too often was painting the bedroom.,Who was criticized?,The fireman,The uncle
+swets,2,2,The sister of the fireman who criticized himself far too often was painting the bedroom.,Who was criticized?,The fireman,The sister
+swets,2,3,The sister of the fireman who criticized herself far too often was painting the bedroom.,Who was criticized?,The sister,The fireman
+swets,3,1,The partner of the salesman who amused himself quite a bit was writing a letter to the editor.,Who was amused?,The salesman,The partner
+swets,3,2,The secretary of the salesman who amused himself quite a bit was writing a letter to the editor.,Who was amused?,The salesman,The secretary
+swets,3,3,The secretary of the salesman who amused herself quite a bit was writing a letter to the editor.,Who was amused?,The secretary,The salesman
+swets,4,1,The mother of the bride who embarrassed herself at the reception was complaining to the priest.,Who was embarrassed?,The bride,The mother
+swets,4,2,The father of the bride who embarrassed herself at the reception was complaining to the priest.,Who was embarrassed?,The bride,The father
+swets,4,3,The father of the bride who embarrassed himself at the reception was complaining to the priest.,Who was embarrassed?,The father,The bride
+swets,5,1,The uncle of the bishop who injured himself last summer was concerned about the infection.,Who was injured?,The bishop,The uncle
+swets,5,2,The aunt of the bishop who injured himself last summer was concerned about the infection.,Who was injured?,The bishop,The aunt
+swets,5,3,The aunt of the bishop who injured herself last summer was concerned about the infection.,Who was injured?,The aunt,The bishop
+swets,6,1,The brother of the mayor who complimented himself constantly was bothered by the reporter.,Who was complimented?,The mayor,The brother
+swets,6,2,The hostess of the mayor who complimented himself constantly was bothered by the reporter.,Who was complimented?,The mayor,The hostess
+swets,6,3,The hostess of the mayor who complimented herself constantly was bothered by the reporter.,Who was complimented?,The hostess,The mayor
+swets,7,1,The niece of the waitress who hurt herself on the bicycle was angry about the incident.,Who was hurt?,The waitress,The niece
+swets,7,2,The nephew of the waitress who hurt herself on the bicycle was angry about the incident.,Who was hurt?,The waitress,The nephew
+swets,7,3,The nephew of the waitress who hurt himself on the bicycle was angry about the incident.,Who was hurt?,The nephew,The niece
+swets,8,1,The sister of the seamstress who entertained herself most evenings was reading a book.,Who usually entertains themelves?,The seamstress,The sister
+swets,8,2,The brother of the seamstress who entertained herself most evenings was reading a book.,Who usually entertains themelves?,The seamstress,The brother
+swets,8,3,The brother of the seamstress who entertained himself most evenings was reading a book.,Who usually entertains themelves?,The brother,The seamstress
+swets,9,1,The sister of the schoolgirl who burned herself the other day was usually very careful.,Who was burned?,The schoolgirl,The sister
+swets,9,2,The father of the schoolgirl who burned herself the other day was usually very careful.,Who was burned?,The schoolgirl,The father
+swets,9,3,The father of the schoolgirl who burned himself the other day was usually very careful.,Who was burned?,The father,The schoolgirl
+swets,10,1,The aunt of the nun who lost herself in thought was disturbed by the noise.,Who was lost in thought?,The nun,The aunt
+swets,10,2,The uncle of the nun who lost herself in thought was disturbed by the noise.,Who was lost in thought?,The nun,The uncle
+swets,10,3,The uncle of the nun who lost himself in thought was disturbed by the noise.,Who was lost in thought?,The uncle,The nun
+swets,11,1,The father of the surgeon who made a fool of himself at the party was greatly embarrassed.,Who was made a fool of?,The surgeon,The father
+swets,11,2,The mother of the surgeon who made a fool of himself at the party was greatly embarrassed.,Who was made a fool of?,The surgeon,The mother
+swets,11,3,The mother of the surgeon who made a fool of herself at the party was greatly embarrassed.,Who was made a fool of?,The mother,The surgeon
+swets,12,1,The maid of the princess who scratched herself in public was terribly humiliated.,Who scratched themselves in public?,The princess,The maid
+swets,12,2,The son of the princess who scratched himself in public was terribly humiliated.,Who scratched themselves in public?,The princess,The son
+swets,12,3,The son of the princess who scratched herself in public was terribly humiliated.,Who scratched themselves in public?,The son,The princess
+swets,13,1,The great-uncle of the policeman who treated himself after the accident was watching the news.,Who was treated after the accident?,The policeman,The great-uncle
+swets,13,2,The great-aunt of the policeman who treated himself after the accident was watching the news.,Who was treated after the accident?,The policeman,The great-aunt
+swets,13,3,The great-aunt of the policeman who treated herself after the accident was watching the news.,Who was treated after the accident?,The great-aunt,The policeman
+swets,14,1,The mother of the nurse who injured herself last summer had lived in Wales.,Who was injured?,The nurse,The mother
+swets,14,2,The father of the nurse who injured herself last summer had lived in Wales.,Who was injured?,The nurse,The father
+swets,14,3,The father of the nurse who injured himself last summer had lived in Wales.,Who was injured?,The father,The nurse
+swets,15,1,The sister of the beautician who cut herself on the broken glass phoned for a doctor.,Who was cut?,The beautician,The sister
+swets,15,2,The husband of the beautician who cut herself on the broken glass phoned for a doctor.,Who was cut?,The beautician,The husband
+swets,15,3,The husband of the beautician who cut himself on the broken glass phoned for a doctor.,Who was cut?,The husband,The beautician
+swets,16,1,The uncle of the general who sacrificed himself for the cause was the subject of the biography.,Who was sacrificed for the cause?,The general,The uncle
+swets,16,2,The widow of the general who sacrificed himself for the cause was the subject of the biography.,Who was sacrificed for the cause?,The general,The widow
+swets,16,3,The widow of the general who sacrificed herself for the cause was the subject of the biography.,Who was sacrificed for the cause?,The widow,The general
+swets,17,1,The grandmother of the heiress who bankrupted herself last year still made risky investments.,Who was banrupt?,The heiress,The grandmother
+swets,17,2,The bank manager of the heiress who bankrupted herself last year still made risky investments.,Who was banrupt?,The heiress,The bank manager
+swets,17,3,The bank manager of the heiress who bankrupted himself last year still made risky investments.,Who was banrupt?,The bank manager,The heiress
+swets,18,1,The nephew of the fisherman who drowned himself in the ocean didn't know about the tricky current.,Who was drowned?,The fisherman,The nephew
+swets,18,2,The niece of the fisherman who drowned himself in the ocean didn't know about the tricky current.,Who was drowned?,The fisherman,The niece
+swets,18,3,The niece of the fisherman who drowned herself in the ocean didn't know about the tricky current.,Who was drowned?,The niece,The fisherman
+swets,19,1,The neighbor of the actor who hated himself for lying left town in a hurry.,Who hated themselves?,The actor,The neighbor
+swets,19,2,The mistress of the actor who hated himself for lying left town in a hurry.,Who hated themselves?,The actor,The mistress
+swets,19,3,The mistress of the actor who hated herself for lying left town in a hurry.,Who hated themselves?,The mistress,The actor
+swets,20,1,The brother of the count who crippled himself by falling off a horse took a long time to get over it.,Who was crippled?,The count,The brother
+swets,20,2,The sister of the count who crippled himself by falling off a horse took a long time to get over it.,Who was crippled?,The count,The sister
+swets,20,3,The sister of the count who crippled herself by falling off a horse took a long time to get over it.,Who was crippled?,The sister,The count
+swets,21,1,The son of the janitor who educated himself at night loved going to the theatre.,Who educated themselves?,The janitor,The son
+swets,21,2,The wife of the janitor who educated himself at night loved going to the theatre.,Who educated themselves?,The janitor,The wife
+swets,21,3,The wife of the janitor who educated herself at night loved going to the theatre.,Who educated themselves?,The wife,The janitor
+swets,22,1,The nephew of the commander who calmed himself after the tragedy was waiting for the doctor.,Who was calmed after the tragedy?,The commander,The nephew
+swets,22,2,The niece of the commander who calmed himself after the tragedy was waiting for the doctor.,Who was calmed after the tragedy?,The commander,The niece
+swets,22,3,The niece of the commander who calmed herself after the tragedy was waiting for the doctor.,Who was calmed after the tragedy?,The niece,The commander
+swets,23,1,The mother of the ballerina who found herself in a lot of trouble phoned the police.,Who was in a lot of trouble?,The ballerina,The mother
+swets,23,2,The father of the ballerina who found herself in a lot of trouble phoned the police.,Who was in a lot of trouble?,The ballerina,The father
+swets,23,3,The father of the ballerina who found himself in a lot of trouble phoned the police.,Who was in a lot of trouble?,The father,The ballerina
+swets,24,1,The assistant of the chaplain who drew attention to himself all the time hated small children.,Who drew attention to themselves?,The chaplain,The assistant
+swets,24,2,The daughter of the chaplain who drew attention to himself all the time hated small children.,Who drew attention to themselves?,The chaplain,The daughter
+swets,24,3,The daughter of the chaplain who drew attention to herself all the time hated small children.,Who drew attention to themselves?,The daughter,The chaplain
+swets,25,1,The grandmother of the stewardess who treated herself to an ice-cream cone was waiting at home.,Who was treated to ice-cream?,The stewardess,The grandmother
+swets,25,2,The grandfather of the stewardess who treated herself to an ice-cream cone was waiting at home.,Who was treated to ice-cream?,The stewardess,The grandfather
+swets,25,3,The grandfather of the stewardess who treated himself to an ice-cream cone was waiting at home.,Who was treated to ice-cream?,The grandfather,The stewardess
+swets,26,1,The grand-nephew of the admiral who wrote himself a note admired sailors very much.,Who was written a note?,The admiral,The grand-nephew
+swets,26,2,The grand-niece of the admiral who wrote himself a note admired sailors very much.,Who was written a note?,The admiral,The grand-niece
+swets,26,3,The grand-niece of the admiral who wrote herself a note admired sailors very much.,Who was written a note?,The grand-niece,The admiral
+swets,27,1,The brother of the butcher who invited himself to the party enjoyed it quite a bit.,Who invited themselves to the party?,The brother,The butcher
+swets,27,2,The sister of the butcher who invited himself to the party enjoyed it quite a bit.,Who invited themselves to the party?,The butcher,The sister
+swets,27,3,The sister of the butcher who invited herself to the party enjoyed it quite a bit.,Who invited themselves to the party?,The sister,The butcher
+swets,28,1,The sister of the baroness who admired herself an inordinate amount enjoyed all the attention.,Who inordinately admired themselves?,The baroness,The sister
+swets,28,2,The nephew of the baroness who admired herself an inordinate amount enjoyed all the attention.,Who inordinately admired themselves?,The baroness,The nephew
+swets,28,3,The nephew of the baroness who admired himself an inordinate amount enjoyed all the attention.,Who inordinately admired themselves?,The nephew,The baroness
+swets,29,1,The brother of the colonel who enjoyed himself a lot was out on the balcony.,Who enjoyed themselves?,The colonel,The brother
+swets,29,2,The daughter of the colonel who enjoyed himself a lot was out on the balcony.,Who enjoyed themselves?,The colonel,The daughter
+swets,29,3,The daughter of the colonel who enjoyed herself a lot was out on the balcony.,Who enjoyed themselves?,The daughter,The colonel
+swets,30,1,The maid of the baroness who prepared herself very thoroughly came from the south.,Who was thoroughly prepared?,The baroness,The maid
+swets,30,2,The bodyguard of the baroness who prepared herself very thoroughly came from the south.,Who was thoroughly prepared?,The baroness,The bodyguard
+swets,30,3,The bodyguard of the baroness who prepared himself very thoroughly came from the south.,Who was thoroughly prepared?,The bodyguard,The baroness
+swets,31,1,The uncle of the milkman who had to support himself with a low income liked to fish.,Who supported themselves?,The milkman,The uncle
+swets,31,2,The aunt of the milkman who had to support himself with a low income liked to fish.,Who supported themselves?,The milkman,The aunt
+swets,31,3,The aunt of the milkman who had to support herself with a low income liked to fish.,Who supported themselves?,The aunt,The milkman
+swets,32,1,The niece of the duchess who looked at herself in the mirror wore a blue shirt.,Who looked at themselves in the mirror?,The duchess,The niece
+swets,32,2,The nephew of the duchess who looked at herself in the mirror wore a blue shirt.,Who looked at themselves in the mirror?,The duchess,The nephew
+swets,32,3,The nephew of the duchess who looked at himself in the mirror wore a blue shirt.,Who looked at themselves in the mirror?,The nephew,The duchess
+swets,33,1,The butler of the actor who did not like himself very much caught the armed robber.,Who didn't like themselves very much?,The actor,The butler
+swets,33,2,The maid of the actor who did not like himself very much caught the armed robber.,Who didn't like themselves very much?,The actor,The maid
+swets,33,3,The maid of the actor who did not like herself very much caught the armed robber.,Who didn't like themselves very much?,The maid,The actor
+swets,34,1,The waitress of the woman who considered herself a natural beauty spilled the drinks.,Who considered themselves a natural beauty?,The woman,The waitress
+swets,34,2,The waiter of the woman who considered herself a natural beauty spilled the drinks.,Who considered themselves a natural beauty?,The woman,The waiter
+swets,34,3,The waiter of the woman who considered himself a natural beauty spilled the drinks.,Who considered themselves a natural beauty?,The waiter,The woman
+swets,35,1,The landlord of the businessman who had locked himself in the office received a phone call.,Who was locked in the office?,The businessman,The landlord
+swets,35,2,The landlady of the businessman who had locked himself in the office received a phone call.,Who was locked in the office?,The businessman,The landlady
+swets,35,3,The landlady of the businessman who had locked herself in the office received a phone call.,Who was locked in the office?,The landlady,The businessman
+swets,36,1,The daughter of the saleswoman who talked to herself all the time walked into the room.,Who talked to themselves all the time?,The saleswoman,The daughter
+swets,36,2,The son of the saleswoman who talked to herself all the time walked into the room.,Who talked to themselves all the time?,The saleswoman,The son
+swets,36,3,The son of the saleswoman who talked to himself all the time walked into the room.,Who talked to themselves all the time?,The son,The saleswoman
+Filler,37,4,The party attracted the fraternity members whose house had been seized by drug agents.,Did drug agents take over the fraternity house?,Yes,No
+Filler,38,4,Despite the lack of publicity many people attended the lecture.,Did people go to the lecture?,Yes,No
+Filler,39,4,The overweight aunt decided to make cookies and cupcakes for the dinner party.,Did the aunt make dessert?,Yes,No
+Filler,40,4,The boy's mother was very happy to see good grades on his report card.,Did the boy's grades please his mother?,Yes,No
+Filler,41,4,While the babysitter watched soap operas the child poured honey all over the floor.,Did the child make a mess?,Yes,No
+Filler,42,4,After dinner the children gathered in a circle to listen to their grandmother's stories about the good old days.,Did the children hear tales?,Yes,No
+Filler,43,4,The movie director refused to work with the producer again after winning the grand prize.,Did the director refuse to work with the producer?,Yes,No
+Filler,44,4,The solicitor wearing the new tuxedo bothered a man from New York.,Did the man who was bothered come from New York?,Yes,No
+Filler,45,4,The plumber repaired the sink of the tenant because he had just moved in.,Did the plumber repair the sink?,Yes,No
+Filler,46,4,The preacher of the congregation had given a sermon at a local school.,Did the preacher give a sermon at a local school?,Yes,No
+Filler,47,4,The boys all admired the singer of the song with the long eyelashes.,Did the singer have long eyelashes?,Yes,No
+Filler,48,4,The police arrested the sister of the handyman after she recently gave birth to twins.,Did the sister give birth?,Yes,No
+Filler,49,4,The construction worker sued the son of that greedy banker.,Did the son get sued?,Yes,No
+Filler,50,4,The new language requirement made all the students say bad things about the dean of the college.,Did the student say bad things about the dean?,Yes,No
+Filler,51,4,The students were in a frenzy because they wanted tickets for the game tonight.,Did the students want to attend the game?,Yes,No
+Filler,52,4,The students were bored by the teacher.,Did the teacher bore the students?,Yes,No
+Filler,53,4,The clay pot was full of gold coins and the thief knew he had finally hit the jackpot.,Did the thief get rich quick?,Yes,No
+Filler,54,4,The video screen of the monitor made strange noises and started emitting strange flashes.,Did the video screen begin flashing?,Yes,No
+Filler,55,4,The people certainly admired the wife of the janitor because she educated herself at night.,Did the wife go to school at night?,Yes,No
+Filler,56,4,The actor said the audiences believed the nasty remarks made by the film critic.,Was the actor insulting?,Yes,No
+Filler,57,4,The architect was embarrassed by the memo of the engineer because it said that his building would collapse.,Was the architect embarrassed?,Yes,No
+Filler,58,4,The white dog bit the ankle of the child.,Was the child bitten?,Yes,No
+Filler,59,4,The conductor of the orchestra with the bald head plays excellently.,Was the conductor bald?,Yes,No
+Filler,60,4,The newlyweds were nervous about their new life together.,Was the couple just married? ,Yes,No
+Filler,61,4,The lemon squirted into the debutante's eye as she tried to impress her mother's society friends.,Was the debutante eager to impress?,Yes,No
+Filler,62,4,After much deliberation the jury found the defendant not guilty.,Was the defendant found innocent?,Yes,No
+Filler,63,4,The bride was devastated to lose her gold ring with a gleaming diamond in the middle.,Was the diamond ring shiny?,Yes,No
+Filler,64,4,Because a fire alarm interrupted the exam the scores were disqualified.,Was the exam cut short?,Yes,No
+Filler,65,4,Even though the goalie had a bad cold the team was preparing for the tournament.,Was the goalie sick?,Yes,No
+Filler,66,4,The rare and exotic monkey was the center of attention at the zoo.,Was the monkey popular?,Yes,No
+Filler,67,4,The restaurant was famous for its French pastries and fine wines.,Was the restaurant well known?,Yes,No
+Filler,68,4,The scientist published a paper in the journal of the foreign organization.,Was the scientist from a foreign country?,Yes,No
+Filler,69,4,The tiny child rolled the piece of the toy into the next room after it broke off.,Was the toy broken?,Yes,No
+Filler,70,4,The warden was dissatisfied with the decision of the parole committee to pardon the prisoner.,Was the warden unhappy about the decision?,Yes,No
+Filler,71,4,The elderly woman locked and bolted her door every night after the robbers took her best pearls.,Was the woman's jewelry stolen?,Yes,No
+Filler,72,4,The secretaries couldn't break away from their habit of coffee and cigarettes during their breaks.,Were the secretaries addicted?,Yes,No
+Filler,73,5,My cousins admired the singer although she never became popular.,Did my cousins disdain the singer of unpopular songs?,No,Yes
+Filler,74,5,My former girlfriend criticized the author's agent because he had failed to meet a deadline.,Did my former girlfriend miss a deadline?,No,Yes
+Filler,75,5,The musician shocked the audience because they did not realize what these shows were like.,Did the audience surprise the musician?,No,Yes
+Filler,76,5,After fifty years of marriage the old couple still felt the same about each other as they had on their wedding day.,Did the couple's feelings change?,No,Yes
+Filler,77,5,Outside the courthouse the committee awarded a lifetime achievement prize to the creator of the sculpture.,Did the courthouse win a prize?,No,Yes
+Filler,78,5,The customer complimented the store keeper with the new stock.,Did the customer insult the storekeeper?,No,Yes
+Filler,79,5,Although the mechanic said the job would take four days the client didn't receive her car for six weeks.,Did the mechanic work quickly?,No,Yes
+Filler,80,5,The stepfather of the nun with a long white beard became very ill.,Did the nun get sick?,No,Yes
+Filler,81,5,The stubborn old man criticized everything that the young student did.,Did the old man praise the student?,No,Yes
+Filler,82,5,The patient's seizures appeared to have been eliminated by the surgery.,Did the patient still have seizures?,No,Yes
+Filler,83,5,The passengers screamed as the plane dipped and the pilots said their prayers quietly.,Did the pilots yell?,No,Yes
+Filler,84,5,While talking to his sister the bishop with the funny eyebrows advocated strange beliefs.,Did the sister of the bishop have funny eyebrows?,No,Yes
+Filler,85,5,The college students were upset that they had an exam the next day.,Did the students want to take the exam?,No,Yes
+Filler,86,5,The family's television stopped working two days after the warranty expired.,Did the television still work?,No,Yes
+Filler,87,5,The car chased the robber of the bank into a narrow alley.,Did the truck chase the robber?,No,Yes
+Filler,88,5,The woman's posture began to go bad because of her constant slumping.,Did the woman stand up straight?,No,Yes
+Filler,89,5,Jim watered the tropical plants of his neighbor because she had gone out of town for a few days.,Was Jim out of town?,No,Yes
+Filler,90,5,The artist was not satisfied with his painting because the shading was off.,Was the artist unhappy with his painting's size?,No,Yes
+Filler,91,5,The workman dropped the assistant who complained bitterly onto a lower floor.,Was the assistant complimentary?,No,Yes
+Filler,92,5,The personal trainer was popular among athletes after he helped the bodybuilder win the competition.,Was the bodybuilder popular among athletes?,No,Yes
+Filler,93,5,The new book replaced the work of the leaders in the field of physical chemistry.,Was the book old?,No,Yes
+Filler,94,5,After months of preparation the ballerina was getting ready for opening night.,Was the company getting ready for opening night?,No,Yes
+Filler,95,5,The receptionist of the company went home sick before moving across town.,Was the company relocating?,No,Yes
+Filler,96,5,The evil man watched the doorway of the bar every Friday night.,Was the man good?,No,Yes
+Filler,97,5,The tall man laughed at the clumsy child who spilled the milk on himself.,Was the man sad?,No,Yes
+Filler,98,5,The husband of the bestselling novelist was into collecting antiques.,Was the novelist into collecting antiques?,No,Yes
+Filler,99,5,The daring photographer captured the image of the destruction as it devastated the village.,Was the photographer cowardly?,No,Yes
+Filler,100,5,There was a large sale on stationary and office supplies at the student bookstore.,Was the stationary regularly priced?,No,Yes
+Filler,101,5,The friendly woman was insulted by the rude stranger because he didn't smile at her.,Was the stranger insulted?,No,Yes
+Filler,102,5,The old man appeared to be upset by the teenager's ignorant remark.,Was the teenager considerate?,No,Yes
+Filler,103,5,The desperate thief ran over a child in an attempt to dodge the cops.,Was the thief fleeing the cops?,No,Yes
+Filler,104,5,Despite the relative lack of rain the farmer harvested much wheat.,Was there an abundance of rain?,No,Yes
+Filler,105,5,The actors rehearsed the play so much that they became bored with it.,Were the actors excited about the play?,No,Yes
+Filler,106,5,On the last night of summer camp the counselors let the children stay up until midnight.,Were the children in bed early?,No,Yes
+Filler,107,5,The citizens were dissatisfied with the mayor of town because he had little experience.,Were the citizens pleased?,No,Yes
+Filler,108,5,The museum wing which housed all the Picasso paintings was very crowded.,Were the Picassos ignored by the museum goers?,No,Yes
+Filler,109,6,While the farmer steered the truck the tractor pulled the plough.,Did the tractor pull the plough? ,Yes,No
+Filler,110,6,While the lawyer was reading the will the contract remained on the desk.,Did the contract remain on the desk? ,Yes,No
+Filler,111,6,While the clown juggled the balls fell to the ground.,Did the balls fall to the ground? ,Yes,No
+Filler,112,6,As the dog was calming down the puppy slept in the cage.,Did the puppy sleep in the cage? ,Yes,No
+Filler,113,6,While Noah was waking up the man the neighbor coughed loudly.,Did the neighbor cough loudly? ,Yes,No
+Filler,114,6,While the winners were kissing the crowd cheered wildly.,Did the crowd cheer wildly? ,Yes,No
+Filler,115,6,As Elaine and Robert fought the mosquitoes whined annoyingly.,Did the mosquitoes whine annoyingly? ,Yes,No
+Filler,116,6,As the survivors were embracing the firefighter coughed violently.,Did the firefighter cough violently? ,Yes,No
+Filler,117,6,While Mike coughed Janet went out to get some cough medicine.,Did Mike cough?,Yes,No
+Filler,118,6,As the dog ran Wanda watched from the window.,Did the dog run?,Yes,No
+Filler,119,6,Everybody is wondering which software Gary installed without buying last June.,Did Gary install software? ,Yes,No
+Filler,120,6,Sarah won't reveal which race she won without entering the competition for officially.,Did Sarah win a race? ,Yes,No
+Filler,121,6,The ecologist wondered which plants the scientist grew but didn't modify the seeds of in the lab.,Did the scientist grow some plants?,Yes,No
+Filler,122,6,They don't know which family the hijackers held hostage but didn't hurt the children of too much.,Did the hijackers hold a family hostage? ,Yes,No
+Filler,123,6,The student and professor went for a walk last Tuesday.,Did the student go for a walk?,Yes,No
+Filler,124,6,The mothers and teachers played tennis after the kids left.,Did the mothers play tennis?,Yes,No
+Filler,125,6,The bosses and secretaries took a long lunch together every Friday.,Did the bosses take long lunches on Fridays?,Yes,No
+Filler,126,6,The boxes and hangers had been stuffed in the closet.,Were the boxes stuffed in the closet?,Yes,No
+Filler,127,7,While Linda wrote the letter arrived from Chicago.,Did Linda write the letter? ,No,Yes
+Filler,128,7,While the man was walking the poodle barked loudly.,Was the man walking the poodle?,No,Yes
+Filler,129,7,While Scott vacuumed the carpet the drapes flapped in the breeze.,Did Scott vacuum the drapes? ,No,Yes
+Filler,130,7,While Margo bathed the dog barked in the yard.,Did Margo bathe the dog? ,No,Yes
+Filler,131,7,While Jamie dried off the table his sunglasses disappeared.,Did Jamie dry off his sunglasses? ,No,Yes
+Filler,132,7,While John and Mary kissed their daughter fell asleep.,Did John and Mary kiss their daughter? ,No,Yes
+Filler,133,7,While the lawyers fought the ruling the judge announced the decision.,Did the lawyers fight the judge? ,No,Yes
+Filler,134,7,As Shawnie and Nick were embracing the doctor the visitor entered the room.,Were Shawnie and Nick embracing the visitor? ,No,Yes
+Filler,135,7,While Donna and Scott met their agent some friends called and left a message.,Did Donna and Scott meet some friends? ,No,Yes
+Filler,136,7,While Mark and Jenny were cuddling the older dogs the puppies nipped at their feet.,Were Mark and Jenny cuddling the puppies? ,No,Yes
+Filler,137,7,When Leslie was sneezing her friends laughed at her.,Did Leslie's friends sneeze? ,No,Yes
+Filler,138,7,While Pedro was swimming the lifeguard sat in his chair.,Did Pedro sit in the chair? ,No,Yes
+Filler,139,7,Laurie asked which truck the dealership sold but didn't paint completely.,Did the dealership sell a sports car?,No,Yes
+Filler,140,7,The investigators asked which mansion the owner sold and didn't repair ten years ago.,Did the owner repair the mansion? ,No,Yes
+Filler,141,7,The nurse and custodian chatted during their break.,Did the nurse sleep during her break?,No,Yes
+Filler,142,7,The cats and dogs glared at each other warily.,Were the cats happy?,No,Yes
+Filler,143,7,The lawyer and defendant whispered furiously during the recess.,Did the lawyer yell during the recess?,No,Yes
+Filler,144,7,The apple and potato went rotten after a week.,Did the apple stay good after a week?,No,Yes
